@@ -1,2 +1,3 @@
 # find_offset
-find offsets for Jailbreak process
+This script helps found offsets base for Jailbreak. 
+
